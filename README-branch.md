@@ -1,6 +1,6 @@
 # minimax-h3-director 分支说明
 
-本分支 `minimax-h3-director` 是 [zy-cinematic-realism](https://github.com/popopo-99/zy-cinematic-realism) 的衍生版本(fork + 新分支)。
+本分支 `minimax-h3-director` 是 [zy-cinematic-realism](https://github.com/popopo-99/zy-cinematic-realism) 的**衍生视频版**(fork + 新分支):在原作电影感单帧方法论(47 位导演四轴指纹库、动机光、去 AI 感)基础之上,面向 MiniMax H3(海螺 3.0)视频生成定制的 skill,叠加了 H3 专属工程层(时间戳分镜、运镜、原生立体声/口型、参考素材路由、翻车诊断、多段拼接)。
 
 ## 内容
 
